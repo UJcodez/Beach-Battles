@@ -1,9 +1,7 @@
 ##
-# Beach Battles Game CPT
+# Beach Battles Game
 #
 # @author Usayd Jahangiri
-# @course ICS3UC
-# @date 2021/1/28
 ##
 
 ## --- Pygame Setup
